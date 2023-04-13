@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+}
+
+img{
+    position: absolute;
+    width: 160px;
+    height: 100px;
+    left: 22px;
+    top: 0px;
+}
+
+nav{
+    float: right;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li{
+    display: inline-block;
+}
